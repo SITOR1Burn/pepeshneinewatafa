@@ -2,4 +2,4 @@
 | -- | ---- | ----- | --------- | -------- |
 | PK | PK | PK | PK | PK| PK |
 | Integer | String | String | Integer | String |
-| AI | 
+| AI | | | | | 
